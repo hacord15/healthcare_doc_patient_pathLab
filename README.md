@@ -58,7 +58,28 @@ Ashish Rajpoot
 Aayush Kumar
 
 
-📜 License
+Problem Statement and Solution Approach
+1. Appointment Management for Patients
+Problem:
+When visiting a doctor for a checkup, patients often have to wait in long queues just to get an appointment number, leading to unnecessary time wastage.
 
+Solution:
+A system that allows patients to book their appointment slots in advance, reducing waiting time and improving efficiency.
+
+2. Centralized PathLab Report System
+Problem:
+Patients often misplace or forget their medical reports. Additionally, tracking past health records becomes difficult when reports are scattered across different labs.
+
+Solution:
+A centralized platform where both doctors and patients can access medical reports digitally. This system will:
+
+Provide easy access to reports if a patient forgets to carry them.
+Allow patients to view old reports to track their health progress over time.
+3. PathLab Agent Comparison System
+Problem:
+Different pathology labs charge different prices for the same medical tests, and patients often struggle to find the best or most affordable option.
+
+Solution:
+A system that aggregates multiple pathology labs, allowing users to compare prices, services, and reviews before booking tests.
 This project is licensed under the MIT License.
 
