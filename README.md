@@ -9,11 +9,15 @@ Doctors --- PathLab --- Patient
 
 The Healthcare Document Management System is a web-based application designed to streamline patient, path lab, and document management in a healthcare setting. This platform enables seamless interaction between doctors, patients, and laboratories, ensuring efficient medical record-keeping and retrieval.
 
-🔗 Live Application
+🔗  Application is live
 
 ✨ Features
 
-✅ Patient Management: Patients can register, update, and view their medical records.✅ Doctor Dashboard: Doctors can access patient details, prescribe treatments, and monitor progress.✅ Path Lab Integration: Laboratories can upload test results and share them securely with doctors and patients.✅ Secure Document Handling: Medical documents are stored securely and accessible only to authorized users.✅ User Authentication: Secure login for doctors, patients, and path labs.
+✅ Patient Management: Patients can register, update, and view their medical records.
+✅ Doctor Dashboard: Doctors can access patient details, prescribe treatments, and monitor progress.
+✅ Path Lab Integration: Laboratories can upload test results and share them securely with doctors and patients.
+✅ Secure Document Handling: Medical documents are stored securely and accessible only to authorized users.
+✅ User Authentication: Secure login for doctors, patients, and path labs.
 
 🚀 Usage
 
