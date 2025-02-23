@@ -40,6 +40,9 @@ npm install
 # Start the development server
 npm run dev
 
+
+
+
 🏆 Hackathon Details
 
 This project was developed as part of the FOSS UNITED 2025 Hackathon by Team TechxMagic.
