@@ -23,6 +23,7 @@ The Healthcare Document Management System is a web-based application designed to
 
 ✅ User Authentication: Secure login for doctors, patients, and path labs.
 
+
 🚀 Usage
 
 Follow these steps to set up and run the project:
@@ -37,7 +38,7 @@ cd healthcare-doc-patient-path-lab
 npm install
 
 # Start the development server
-npm start
+npm run dev
 
 🏆 Hackathon Details
 
