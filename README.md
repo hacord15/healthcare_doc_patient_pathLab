@@ -1,6 +1,7 @@
 📌 Name
 
-Healthcare Document Management System
+Healthcare Management System
+
 Doctors --- PathLab --- Patient 
 
 
