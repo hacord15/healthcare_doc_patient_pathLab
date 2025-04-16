@@ -51,11 +51,11 @@ This project was developed as part of the FOSS UNITED 2025 Hackathon by Team Tec
 
 Lead: Abhineet Pal
 
-Ashish Pal
+UI/UX Designer: Ashish Pal
 
-Ashish Rajpoot
+Backend Developer: Ashish Rajpoot
 
-Aayush Kumar
+Backend Developer: Aayush Kumar
 
 
 Problem Statement and Solution Approach
